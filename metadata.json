@@ -1,0 +1,7 @@
+{
+  "name": "EventPulse - AI Event Content Studio",
+  "description": "Turn keynote takeaways and live summit experiences into high-impact, polished LinkedIn posts for organizers and attendees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
